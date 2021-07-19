@@ -1,1 +1,1 @@
-# Thesis_ComputationalApproaches
+# Thesis - Computational approaches

@@ -1,0 +1,12 @@
+# Number of genes: 10
+gene	mutated_samples	freq
+G1	2	0.333
+G10	3	0.5
+G11	1	0.167
+G2	3	0.5
+G3	3	0.5
+G4	3	0.5
+G5	1	0.167
+G6	2	0.333
+G7	3	0.5
+G8	1	0.167
